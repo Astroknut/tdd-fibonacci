@@ -6,3 +6,9 @@
      * @returns {Number} the nth element of the Fibonacci sequence.
      */
     // TODO: return definition of `fibonacci` function here
+
+var fibonacciezer = function() {
+
+};
+
+module.exports = fibonacciezer;
